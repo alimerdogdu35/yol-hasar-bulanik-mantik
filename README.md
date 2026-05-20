@@ -2,6 +2,9 @@
 
 Bu proje, bulanık mantık tabanlı bir karar destek sistemi olarak yol hasarlarının onarım/müdahale önceliğini hesaplar. Sistem; hasar şiddeti, yol kullanım yoğunluğu ve kaza riski girişlerini kullanarak 0-100 aralığında müdahale önceliği üretir.
 
+## Projeyi Raporu
+--Proje raporu drive linkli:
+https://docs.google.com/document/d/1kaQdULSHV8DZBVYOMEaAmhdsi8kzQ6qS/edit?usp=sharing&ouid=105522682853803228890&rtpof=true&sd=true
 ## Proje Özeti
 
 - **Yöntem:** Mamdani bulanık çıkarım sistemi
