@@ -94,15 +94,4 @@ Kurallar Mamdani yaklaşımıyla değerlendirilir:
 
 Beklenen yorum: Bu değerler yüksek hasar, yoğun kullanım ve yüksek güvenlik riski gösterdiği için sistemin kritik müdahale önceliği üretmesi beklenir.
 
-## GitHub Teslimi İçin Öneri
-
-Projeyi public GitHub reposuna yüklerken aşağıdaki dosyaların bulunmasına dikkat edin:
-
-- `app.py`
-- `src/fuzzy_engine.py`
-- `requirements.txt`
-- `README.md`
-- `tests/test_engine.py`
-- `docs/` klasörü
-- `assets/` klasörü
 
