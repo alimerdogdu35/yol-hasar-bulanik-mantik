@@ -1,0 +1,6 @@
+Test komutları:
+1) python -m py_compile app.py src/fuzzy_engine.py tests/test_engine.py
+2) PYTHONPATH=. python -m pytest -q tests/test_engine.py
+
+Sonuç:
+4 test başarıyla geçti.
